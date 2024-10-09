@@ -1,7 +1,6 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hi 👋, I'm Gisske</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207](https://th.bing.com/th/id/R.75c2f842863ae2df6b3ac2d0a4d63026?rik=KEuFjuU1P0qyDA&pid=ImgRaw&r=0)")
 
 - 🌱 I’m currently learning **React native**
 
